@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+this project contains how to integrate socail logins withj next js and next-auth.
+
 ## Getting Started
 
 First, run the development server:
